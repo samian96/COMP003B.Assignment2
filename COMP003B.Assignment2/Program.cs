@@ -1,5 +1,12 @@
 namespace COMP003B.Assignment2
 {
+    /* Samuel Iannazzo
+     * COMP003B: ASP.NET Core
+     * Jonathan Cruz
+     * The purpose of this application is to demonstraight my understanding of how 
+     * to properly use the request pipeline with middleware, controllers, views,
+     * layout design as well as views that we have learned this chapter 
+     */
     public class Program
     {
         public static void Main(string[] args)
