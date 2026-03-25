@@ -2,8 +2,9 @@
 
 namespace COMP003B.Assignment2.Controllers.ProjectsController
 {
-    public class ProjectController : Controller
+    public class ProjectsController : Controller
     {
+        [HttpGet]
         public IActionResult Current()
         {
             return View();
